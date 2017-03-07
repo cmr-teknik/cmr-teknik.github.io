@@ -1,1 +1,1 @@
-# cmr-teknik.gitub.io
+# cmr-teknik.github.io
